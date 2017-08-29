@@ -1,0 +1,25 @@
+body {
+ background: white;
+ text-align: center; 
+ color: #270042;
+ }
+ p {
+ 	font-family: cursive;
+ 	color: blue;  
+ } 
+ p a {
+ 	color: black;
+
+ }
+ .negrito {	
+ 	font-variant-position: bold;
+ 	text-overflow: normal;
+ }
+
+ p.negrito{
+
+ }
+ #destaque{
+ 	text-anchor: normal;
+ }
+
